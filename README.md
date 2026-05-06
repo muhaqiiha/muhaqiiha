@@ -1,5 +1,6 @@
 ## Hi, I'm Muhaqiiha
 
+Graphic Designer
 <!--
 **muhaqiiha/muhaqiiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFiZnhzcGZxZWJ5b2hhNXVsd2J2c3ZrNHlsOGNoZzM4ZHBuaWZoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeYbfcTxoxGlG/giphy.gif)
+<!--![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFiZnhzcGZxZWJ5b2hhNXVsd2J2c3ZrNHlsOGNoZzM4ZHBuaWZoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeYbfcTxoxGlG/giphy.gif)-->
 
 #### Tech & Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,py,vscode,git,github&theme=dark)
